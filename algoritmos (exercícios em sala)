@@ -1,11 +1,11 @@
 
 <primeira questão:
 1.pegar a escada
-2.posicionar a escada embaixo da lampada
-3.buscar a lampada reserva
+2.posicionar a escada embaixo da lâmpada
+3.buscar a lâmpada reserva
 4.subir na escada
-5.retirar a lampada velha
-6.colocar a lampada de reserva
+5.retirar a lâmpada velha
+6.colocar a lâmpada de reserva
 
 
 <segunda questão:
@@ -20,7 +20,7 @@
 
 <terceira questão: 
 1.atravessar com o bode 
-2. voltar e pega o lobo
+2.voltar e pega o lobo
 3.deixa o lobo e volta com o bode 
 4.deixa o bode e leva a alfafa
 5.volta e por último leva o bode
@@ -65,7 +65,7 @@ Elisa- Candeeiro
 Filomena- Chapéu
 
 
-<setima questão:
+<sétima questão:
 .Despeja 1 litro do barril B no A
 .Despeja 3 litros do C no A.
 
@@ -94,6 +94,15 @@ Filomena- Chapéu
 10.Máximo- Limonada
 11.Manuel- Whisky
 12.Ivone- Guaraná
+
+
+<décima questão
+.Definir os participantes e as provas
+.Usar a pista A: Gumercindo venceu Barnabé no salto
+.Usar a pista B: Teodoro chegou atrás de Gumercindo no dardo
+.Usar a pista C: Barnabé não venceu nos 100 metros rasos.
+.Testar as combinações respeitando a restrição final e 
+lembrando que cada um teve um 1° lugar, 2° lugar e 3° lugar sem repetições.
  
 
 
