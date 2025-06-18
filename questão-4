@@ -12,7 +12,7 @@ programa {
   leia(marco)
 
   //Processamento 
-  media_Aritmetica=janeiro+fevereiro+marco
+  media_Aritmetica=janeiro+fevereiro+marco(/3)
 
   //Saída de dados
   escreva("A media Aritmética é,media_Aritmetica")
